@@ -64,8 +64,8 @@
   <ItemGroup>
     <Content Include="favicon.ico" />
     <Content Include="index.html" />
-    <Content Include="inline.c7e0539e0ec7c72bec0b.bundle.js" />
-    <Content Include="main.f3f8c0280725a19c4a42.bundle.js" />
+    <Content Include="inline.287af022b7d90030108f.bundle.js" />
+    <Content Include="main.19c252ff306f4f80f993.bundle.js" />
     <Content Include="packages.config" />
     <None Include="Properties\PublishProfiles\ng2deploymenttest - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
@@ -78,8 +78,8 @@
   <ItemGroup>
     <Content Include="polyfills.3ae08eaf6129a55130cb.bundle.js" />
     <Content Include="scripts.1fe612632ef94019382e.bundle.js" />
-    <Content Include="styles.edbf93b10e6c248783fb.bundle.css" />
-    <Content Include="vendor.f05050899702cbaa1292.bundle.js" />
+    <Content Include="styles.6e48a7a64413b9029d60.bundle.css" />
+    <Content Include="vendor.505b17a4f1e05ae3e345.bundle.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
