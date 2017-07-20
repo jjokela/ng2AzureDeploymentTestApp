@@ -67,6 +67,7 @@
     <Content Include="inline.f0e03c6e8a1f6e646b16.bundle.js" />
     <Content Include="main.044017f16d047ea070b3.bundle.js" />
     <Content Include="packages.config" />
+    <Content Include="assets\seed.json" />
     <None Include="Properties\PublishProfiles\ng2deploymenttest - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
