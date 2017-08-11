@@ -64,8 +64,8 @@
   <ItemGroup>
     <Content Include="favicon.ico" />
     <Content Include="index.html" />
-    <Content Include="inline.758fe5f3312ccc4e4056.bundle.js" />
-    <Content Include="main.18869198802a964a8acb.bundle.js" />
+    <Content Include="inline.a6b6391836541d0efc1c.bundle.js" />
+    <Content Include="main.2888b51d958d1c85d1e9.bundle.js" />
     <Content Include="packages.config" />
     <Content Include="assets\seed.json" />
     <None Include="Properties\PublishProfiles\ng2deploymenttest - Web Deploy.pubxml" />
