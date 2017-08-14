@@ -64,8 +64,8 @@
   <ItemGroup>
     <Content Include="favicon.ico" />
     <Content Include="index.html" />
-    <Content Include="inline.91b2c0d0a2032258773b.bundle.js" />
-    <Content Include="main.5cfa0ac3dc17abf16cfd.bundle.js" />
+    <Content Include="inline.c65a5777d3bf44ee8346.bundle.js" />
+    <Content Include="main.c2afb9d2b7f7c18748cb.bundle.js" />
     <Content Include="packages.config" />
     <Content Include="assets\seed.json" />
     <None Include="Properties\PublishProfiles\logdashboard - Web Deploy.pubxml" />
