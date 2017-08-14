@@ -64,10 +64,11 @@
   <ItemGroup>
     <Content Include="favicon.ico" />
     <Content Include="index.html" />
-    <Content Include="inline.a6b6391836541d0efc1c.bundle.js" />
-    <Content Include="main.2888b51d958d1c85d1e9.bundle.js" />
+    <Content Include="inline.91b2c0d0a2032258773b.bundle.js" />
+    <Content Include="main.5cfa0ac3dc17abf16cfd.bundle.js" />
     <Content Include="packages.config" />
     <Content Include="assets\seed.json" />
+    <None Include="Properties\PublishProfiles\logdashboard - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\ng2deploymenttest - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\ng2testapp - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
